@@ -1,3 +1,3 @@
 # PortfolioProjects
 
-Just a simple project i did on correlation with python pandas on a movie dataset while learning!
+Correlation matrix with python pandas, followed by a recommendation system w Machine learning 
